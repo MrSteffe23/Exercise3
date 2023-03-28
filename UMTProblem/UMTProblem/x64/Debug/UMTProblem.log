@@ -1,0 +1,7 @@
+﻿  Exercise3.cpp
+C:\Users\stef_\Desktop\UMT\UMTProblem\UMTProblem\Exercise3.cpp(32,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\stef_\Desktop\UMT\UMTProblem\UMTProblem\Exercise3.cpp(78,25): warning C4474: 'scanf_s' : too many arguments passed for format string
+C:\Users\stef_\Desktop\UMT\UMTProblem\UMTProblem\Exercise3.cpp(78,25): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\stef_\Desktop\UMT\UMTProblem\UMTProblem\Exercise3.cpp(82,24): warning C4474: 'scanf_s' : too many arguments passed for format string
+C:\Users\stef_\Desktop\UMT\UMTProblem\UMTProblem\Exercise3.cpp(82,24): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  UMTProblem.vcxproj -> C:\Users\stef_\Desktop\UMT\UMTProblem\x64\Debug\UMTProblem.exe
